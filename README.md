@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VanessaZetino
-- 👀 I’m interested in ...music, shoes, and plants
-- 🌱 I’m currently learning ... Python
+- Hi, I’m @VanessaZetino
+- I’m interested in ...music, shoes, and plants
+- I’m currently learning ... Python
 
 <!---
 VanessaZetino/VanessaZetino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
